@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Backend Developer with 5 years of experience using Python and NodeJs to build scalable web and mobile applications
+I am Pavlo a Backend Developer with 5 years of experience using Python and NodeJs to build scalable web and mobile applications
 
 
 # 💻 Tech Stack:
