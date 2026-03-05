@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Pavlo a Backend Developer with 5 years of experience using Python and NodeJs to build scalable web and mobile applications
+I've been building backend systems with Python, mostly in the space where product complexity meets real load: event platforms, AI-driven apps, recruitment tools. My usual stack is FastAPI, Flask or Django on the backend; PostgreSQL and Redis for data; Celery for async work, and Docker/Kubernetes when things need to scale.
 
 
 # 💻 Tech Stack:
